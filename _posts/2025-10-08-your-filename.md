@@ -20,7 +20,7 @@ defenderje in je zmago odnesel Anže. Čestitke!
     10. Timon Š.    W-L-D: 0-3-0  OMW%: 38,9%  Deck: BR Madness
 
 Po dolgem času smo bili deležni malce bolj homogene mete, saj so bili
-prisotni kar trije Esper Cryi (30%).
+prisotni kar trije Esper Cryi.
 
 Se vidimo naslednji teden!
 
