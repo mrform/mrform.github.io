@@ -2,7 +2,7 @@ Po dolgem času nas je na Cardpointu pauperju obiskal Gal in nam z Dimir Pactdol
 ## Končna razvrstitev:
 ```
 1.  Gal N.         3-0-1  OMW%: 62,5%  Deck: Dimir Pactdoll
-2.  Danilo I.      3-0-1  OMW%: 58,3%  Deck: R Madness
+2.  Danilo J.      3-0-1  OMW%: 58,3%  Deck: R Madness
 3.  Denis K.       3-1-0  OMW%: 58,3%  Deck: Esper Cry
 4.  Gasper K.      3-1-0  OMW%: 54,2%  Deck: Elves
 5.  Luka P.        2-1-1  OMW%: 39,6%  Deck: High Tide
