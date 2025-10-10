@@ -1,5 +1,7 @@
 Po dolgem času nas je na Cardpointu pauperju obiskal Gal in nam z Dimir Pactdollom takoj pokazal kako se borijo veterani formata. V finalu je suvereno premagal mene na R Madnessu. 
+
 ## Končna razvrstitev:
+
     1.  Gal N.         3-0-1  OMW%: 62,5%  Deck: Dimir Pactdoll
     2.  Danilo J.      3-0-1  OMW%: 58,3%  Deck: R Madness
     3.  Denis K.       3-1-0  OMW%: 58,3%  Deck: Esper Cry
