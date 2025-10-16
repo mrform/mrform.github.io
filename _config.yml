@@ -9,7 +9,7 @@ name: Slovenski Pauper Meta Report
 description: Tedenske reportaže Pauper turnirjev v Cardpointu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "images/glinthawk.png"
+avatar: "https://pauper.janjic.si/images/glinthawk.png"
 
 #
 # Flags below are optional
