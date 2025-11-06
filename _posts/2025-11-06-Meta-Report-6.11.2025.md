@@ -1,4 +1,3 @@
-# Pauper Meta Report - 6.11.2025
 November smo otvorili z zelo solidno udeležbo 14ih komadov. Smo pa bili prvič po zelo dolgem času deležni čisto pravega splita v finalu, kjer je bil že drugi teden zapored prisoten Luka z Red Tronom in Jure, ki se pridno drži Wallsov.
 
 ## Končna razvrstitev:
