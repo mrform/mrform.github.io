@@ -15,6 +15,7 @@ November smo otvorili z zelo solidno udeležbo 14ih komadov. Smo pa bili prvič 
     12. Denis K.        1-3-0    OMW% 43,8%    Deck: Esper Cry
     13. Peter G.        0-2-2    OMW% 47,9%    Deck: Dimir Control
     14. Andraž R.       0-3-1    OMW% 50,0%    Deck: Jund Wildfire
+    
 ## Neuradna lestvica jesenskega splita:
     | #  | Ime        | TČK |  Δ  |
     |----|------------|-----|-----|
