@@ -2,7 +2,7 @@ Na prvem decembrskem pauperju se nas je zbralo 15. Absolutno zmago (tokrat brez 
 
 ## Končna razvrstitev:
     1.  Nejc D.       3-0-1    OMW% 50.0%    Deck: Jund Wildfire
-    2.  Luka P.       3-1-0    OMW% 69.4%    Deck: Pertitioners
+    2.  Luka P.       3-1-0    OMW% 69.4%    Deck: Petitioners
     3.  Boštjan S.    3-1-0    OMW% 62.5%    Deck: Esper Cry
     4.  Danilo J.     3-1-0    OMW% 47.9%    Deck: W Heroic
     5.  Gal N.        3-1-0    OMW% 43.8%    Deck: Dimir Terror
