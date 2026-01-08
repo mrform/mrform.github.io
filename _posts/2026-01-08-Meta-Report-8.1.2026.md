@@ -37,4 +37,5 @@ Meta je bila tokrat precej bolj modro obarvana, kot smo je vajeni. Bomo videli �
     | 4. | Luka P.    |  2  |  0  |
     | 4. | Boštjan S. |  2  |  0  |
     | 4. | Peter G.   |  2  |  0  |
+    
 Nejc si je znova priigral točke (ta split praktično vsako srečanje!), vendar sva se mu z Galom uspela malce približati. Do konca zadnjega splita sezone nas sicer loči še kar nekaj tednov, tako da je končno stanje še daleč od zaključenega.
