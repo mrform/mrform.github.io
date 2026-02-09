@@ -1,4 +1,4 @@
-Včeraj se nas je lepo število udeležilo Store Championship turnirja v kranjski Park Enigmi, kjer je bila glavna nagrada posebno verzijo foilanega Ocelot Prida. 
+Včeraj se nas je lepo število udeležilo Store Championship turnirja v kranjski Park Enigmi, kjer je bila glavna nagrada posebna verzija foilanega Ocelot Prida. 
 
 Čeprav smo se borili kot zmaji, smo na koncu odšli domov "praznih" rok, saj je Ocelot Pride ostal v Kranju pri Marku, ki nas je vse nadigral z nekonvencionalnim Mono G Stompyem. Čestitke!
 
