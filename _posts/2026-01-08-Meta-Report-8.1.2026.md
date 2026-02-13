@@ -28,7 +28,7 @@ Odigrali smo štiri runde, splitov pa tokrat nismo mogli izvesti, tako da je bil
     
 Meta je bila tokrat precej bolj modro obarvana, kot smo je vajeni. Bomo videli če se bo to preneslo tudi v prihodnje tedne.
 
-## Neuradna končna lestvica zimskega splita:
+## Neuradna lestvica zimskega splita:
     | #  | Ime        | TČK |  Δ  |
     |----|------------|-----|-----|
     | 1. | Nejc D.    |  8  | +1  |
