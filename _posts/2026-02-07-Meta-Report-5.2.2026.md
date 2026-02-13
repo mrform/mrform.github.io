@@ -16,7 +16,7 @@ Ta teden se javljamo malo pozno. V četrtek se nas je zbralo 14, a le Boštjan j
     13. Bart L.       1-3-0    OMW% 41,7%    Deck: Jund Wildfire
     14. Nelvis C.     0-3-0    OMW% 41,7%    Deck: Izzet Delver
 
-## Neuradna končna lestvica zimskega splita:
+## Neuradna lestvica zimskega splita:
     | #  | Ime        | TČK |  Δ  |
     |----|------------|-----|-----|
     | 1. | Nejc D.    |  11 |  0  |
