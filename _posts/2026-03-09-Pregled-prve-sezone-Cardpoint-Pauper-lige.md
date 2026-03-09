@@ -6,23 +6,31 @@ Kot obljubljeno, sem pripravil kratek pregled letošnje sezone. Rezultate smo za
     3. U Terror - 111 matchev
     4. R Madness - 96 matchev
     5. Grixis Affinity - 81 matchev
-
+    6. Temur Cascade - 73 matchev
+    7. Elves - 72 matchev
+    8. Walls - 57 matchev
+    8. Jund Wildfire - 57 matchev
 ## 2. Najvišji winrate:
-    1. Spy Combo - 64% winrate (28 matchev)
-    2. Elves - 61% winrate (75 matchev)
-    3. Walls - 61% winrate (57 matchev)
-    4. RB Madness - 61% winrate (28 matchev)
-    5. Esper Affinity - 59% winrate (114 matchev)
-    5. Grixis Affinity - 59% winrate (81 matchev)
+    1. Spy Combo - 71% winrate (28 matchev)
+    2. Elves - 66% winrate (75 matchev)
+    3. Walls - 63% winrate (57 matchev)
+    4. RB Madness - 63% winrate (28 matchev)
+    5. Esper Affinity - 62% winrate (114 matchev)
+    6. Grixis Affinity - 60% winrate (81 matchev)
+    7. UW Familiars - 58% winrate (32 matchev)
+    8. U Fae - 56% winrate (114 matchev)
 
 Čeprav sta Affinitya bolj pri repu winrate lestvice, moramo vzeti v obzir da je 59% pri toliko odigranih matchih precej bolj značilen rezultat kot pri drugih naštetih (z izjemo Elfov, ki imajo odigranih 75). Decke z manj kot 28 matchi nisem vključeval, ker je vzorec premajhen. 
 
 ## 3. Najvišji winrate igralcev:
-    1. Danilo J. - 66%
-    2. Boštjan S. - 62%
-    3. Nejc D. - 61%
-    4. Gal N. - 56%
-    5. Yannick K. - 55%
+    1. Danilo J. - 70%
+    2. Boštjan S. - 64%
+    3. Nejc D. - 64%
+    4. Gal N. - 61%
+    5. Yannick K. - 59%
+    6. Jure K. - 56%
+    7. Anže M. - 55%
+    8. Denis K. - 55%
 
 Upoštevani samo igralci ki so odigrali vsaj 40 matchev (oz. zbrali 10 obiskov) v tej sezoni. 
 
