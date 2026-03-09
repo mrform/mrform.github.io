@@ -10,6 +10,7 @@ Kot obljubljeno, sem pripravil kratek pregled letošnje sezone. Rezultate smo za
     7. Elves - 72 matchev
     8. Walls - 57 matchev
     8. Jund Wildfire - 57 matchev
+    
 ## 2. Najvišji winrate:
     1. Spy Combo - 71% winrate (28 matchev)
     2. Elves - 66% winrate (75 matchev)
