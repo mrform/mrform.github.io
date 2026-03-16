@@ -27,3 +27,4 @@ Nauk je, da se grind čez celo sezono na koncu zelo obrestuje, zato vsem polagam
 
 ## Top 8:
 ![Pauper League Finals 2026 Top 8](/images/2026_03_pauper_league_finals_top8.png)
+*Top8 grafika: Jaša Samec*
