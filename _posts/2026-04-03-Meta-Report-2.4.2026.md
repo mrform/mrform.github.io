@@ -1,4 +1,3 @@
-# Pauper Meta Report - 2.4.2026
 Udeležba ostaja lepa in konsistentna, saj se nas je tudi včeraj zbralo okroglih 20. Po dolgem času nas je obiskal Bonch z Izzet Terrorjem in v finalu, kot se za Turbofog spodobi :wink:  , drawal z Luko.
 
 ## Končna razvrstitev:
@@ -22,6 +21,7 @@ Udeležba ostaja lepa in konsistentna, saj se nas je tudi včeraj zbralo okrogli
     18. Peter G.      1-3-0    OMW% 56.3%    Deck: Dimir Artifacts
     19. Matteo P.     0-3-1    OMW% 50.0%    Deck: UW Familiars
     20. Primož B.     0-4-0    OMW% 60.4%    Deck: U Faeries
+
 ## Lestvica spomladanskega splita:
     | #  | Ime        | TČK |  Δ   |
     |----|------------|-----|------|
