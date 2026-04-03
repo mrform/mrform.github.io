@@ -1,4 +1,4 @@
-Udeležba ostaja lepa in konsistentna, saj se nas je tudi včeraj zbralo okroglih 20. Po dolgem času nas je obiskal Bonch z Izzet Terrorjem in v finalu, kot se za Turbofog spodobi :wink:, drawal z Luko.
+Udeležba ostaja lepa in konsistentna, saj se nas je tudi včeraj zbralo okroglih 20. Po dolgem času nas je obiskal Bonch z Izzet Terrorjem in v finalu, kot se za Turbofog spodobi😉, drawal z Luko.
 
 ## Končna razvrstitev:
     1.  Luka V.       3-0-1    OMW% 64.6%    Deck: BG Turbo Fog
