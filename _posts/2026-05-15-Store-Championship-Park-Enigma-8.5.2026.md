@@ -34,4 +34,4 @@ Meta je bila zelo raznolika, turnir pa se je zavlekel kar do 1.00 zjutraj. Čest
 
 *Podatke pridobil: Boštjan S.*
 
-P. S. po objavi smo izvedeli da je Jure pravzaprav Kranjčan, tako da je tehnično gledano glavna nagrada spet ostala v Kranju :sweat_smile:
+P. S. po objavi smo izvedeli da je Jure pravzaprav Kranjčan, tako da je tehnično gledano glavna nagrada spet ostala v Kranju 😅
