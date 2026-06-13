@@ -1,4 +1,4 @@
-Nov split te sezone smo otvoroili z absoultnim rekordom -** 28 udeležencev**! Kot vedno, hvala vsem ki ste prišli. 
+Nov split te sezone smo otvoroili z absoultnim rekordom - **28 udeležencev**! Kot vedno, hvala vsem ki ste prišli. 
 
 Prvo krono tega splita je odnesel Gal, ki je z Jeskai Skredom večer končal 4-0. Neporažen (3-0-1) je bil tudi Nasim na Dimir Faericah. Čestitke!
 
@@ -63,4 +63,5 @@ Prvo krono tega splita je odnesel Gal, ki je z Jeskai Skredom večer končal 4-0
     | 19. | The Bonch  |   4 | +4  |
     | 27. | Danilo J.  |   1 | +1  |
     | 27. | Peter K.   |   1 | +1  |
+
 Z novim splitom, prihaja tudi reset lestvice.
