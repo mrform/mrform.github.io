@@ -18,4 +18,11 @@ Jaša S. je pripravil zelo zanimiv podatkovni pregled spomladanskega splita. Zar
       10  Jure K.             1431  -113
     ══════════════════════════════════════════
 
-    
+## Player Deck Portfolio:    
+![Player Deck Portfolios](/images/2026_05_player_deck_portfolios.png)
+
+## Best Decks:
+![Best Decks](/images/2026_05_best_decks.png)
+
+## Meta Over Time:
+![Meta Over Time](/images/2026_05_meta_over_time.png)
