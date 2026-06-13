@@ -1,5 +1,3 @@
-## Podatkovni pregled spomladanskega splita Pauper lige - 29.5.2026
-
 Jaša S. je pripravil zelo zanimiv podatkovni pregled spomladanskega splita. Zaradi omejitev Discorda je prikaz malo okrnjen, ampak grafikoni povedo več kot 1000 mojih besed. Hvala še enkrat!
 
     🏆 ELO LEADERBOARD (TOP 10)
