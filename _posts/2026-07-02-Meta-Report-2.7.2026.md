@@ -7,13 +7,13 @@ Zaradi mnogih pritožb s strani predsednika kluba za diskriminacijo arboreal gra
 
 <p>Današnji report bi želel začeti z verzom iz Geneze.</p>
 
-In bog je rekel: naj mrgolijo vseh oblik in velikosti, naj se plazijo po tleh in plavajo po morjih
+<p>In bog je rekel: naj mrgolijo vseh oblik in velikosti, naj se plazijo po tleh in plavajo po morjih</p>
 
-In Krark clan shaman je rekel ... ne
+<p>In Krark clan shaman je rekel ... ne</p>
 
-Jaro in njegov grixis affinity sta kosila nič hudega sluteče nasprotnike, nato pa se je v finalu pomeril z Danilom na mono red axe decku. Tudi trije shamani niso bili dovolj, saj kot je že moja nona pravila: "Samo, ne sekiraj se. Vedno je nekje še več goblinov."
+<p>Jaro in njegov grixis affinity sta kosila nič hudega sluteče nasprotnike, nato pa se je v finalu pomeril z Danilom na mono red axe decku. Tudi trije shamani niso bili dovolj, saj kot je že moja nona pravila: "Samo, ne sekiraj se. Vedno je nekje še več goblinov."</p>
 
-Čestitamo. 
+<p>Čestitamo. </p>
   <footer>— Samo U.</footer>
 </blockquote>
 
