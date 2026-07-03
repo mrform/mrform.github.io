@@ -1,4 +1,6 @@
-Počitnice so že v polnem zanosu, kar se zelo rahlo pozna tudi na naši udeležbi, saj nas je bilo danes (še vedno zelo solidnih) 19. Spodaj pripenjam Samovo videnje včerajšnjega dogajanja:
+Počitnice so že v polnem zanosu, kar se zelo rahlo pozna tudi na naši udeležbi, saj nas je bilo danes (še vedno zelo solidnih) 19. 
+
+Spodaj pripenjam Samovo videnje včerajšnjega dogajanja:
 
 <blockquote class="my-quote">
 Zaradi mnogih pritožb s strani predsednika kluba za diskriminacijo arboreal grazerjev, Boštjanu Sladiču, sem se danes odločil, da zvišam moralo v Cardpointu. Tokrat sem se odločil, da pustim zmagati še komu drugemu in danes nastopiti v vlogi komentatorja (kar je ali pa ni povezano s tem, da imam bye v zadnji rundi)
@@ -13,8 +15,8 @@ Jaro in njegov grixis affinity sta kosila nič hudega sluteče nasprotnike, nato
 
 Čestitamo. 
   <footer>— Samo U.</footer>
-
-Po odličnem Samovem zapisu, mislim da je škoda izgubljati dodatne besede. Skupno zmago je nekako uspelo odnesti meni na R Axu, neporažen pa je ostal tudi Anže na Naya Gatesih.
+</blockquote>
+Po odličnem Samovem zapisu, mislim da je škoda izgubljati dodatne besede. Skupno zmago je torej nekako uspelo odnesti meni na R Axu, neporažen pa je ostal tudi Anže na Naya Gatesih.
 
 ## Končna razvrstitev:
     
