@@ -16,6 +16,7 @@ Jaro in njegov grixis affinity sta kosila nič hudega sluteče nasprotnike, nato
 Čestitamo. 
   <footer>— Samo U.</footer>
 </blockquote>
+
 Po odličnem Samovem zapisu, mislim da je škoda izgubljati dodatne besede. Skupno zmago je torej nekako uspelo odnesti meni na R Axu, neporažen pa je ostal tudi Anže na Naya Gatesih.
 
 ## Končna razvrstitev:
