@@ -5,7 +5,7 @@ Spodaj pripenjam Samovo videnje včerajšnjega dogajanja:
 <blockquote class="my-quote">
 Zaradi mnogih pritožb s strani predsednika kluba za diskriminacijo arboreal grazerjev, Boštjanu Sladiču, sem se danes odločil, da zvišam moralo v Cardpointu. Tokrat sem se odločil, da pustim zmagati še komu drugemu in danes nastopiti v vlogi komentatorja (kar je ali pa ni povezano s tem, da imam bye v zadnji rundi)
 
-Današnji report bi želel začeti z verzom iz Geneze. 
+<p>Današnji report bi želel začeti z verzom iz Geneze.</p>
 
 In bog je rekel: naj mrgolijo vseh oblik in velikosti, naj se plazijo po tleh in plavajo po morjih
 
