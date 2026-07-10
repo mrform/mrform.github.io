@@ -1,4 +1,5 @@
 V drugem tednu julija nam je spet uspelo prebiti magično 20ico pri udeležbi na naših rednih Pauper ligaških srečanjih. Že drugi teden zapored pa je tudi moj R Axe ostal neporažen. V finalu sem premagal Jašo, ki je bil prav tako na R Axu. Neporažena sta večer zazključila tudi Boštjan (Orzhov Blade) in Gal (Jeskai Snow Control), kar je odlična popotnica za Paupergeddon, ki se bo odvijal ta vikend in katerga se bo udeležilo 9 "naših" članov. Veliko sreče vsem v Lucci!
+
 ## Končna razvrstitev:
 ```
 1.  Danilo J.      4-0-0    OMW% 56.30%   Deck: R Axe
